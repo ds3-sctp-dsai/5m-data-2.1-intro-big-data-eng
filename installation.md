@@ -120,7 +120,7 @@ For lesson 2.4 we need to setup a Github token.
 ## Preparation for Lesson 2.8
 
 - `ooc` environment
-- We need to download large amount of data more than 1GB. Suggest learner to run the notebook and download the data first.
+- We need to download large amount of data more than 1GB. Learner should run the first section `Lesson Preparation` of the notebook to download the large data first.
 
 ## Preparation for Lesson 2.9
 
